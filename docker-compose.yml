@@ -4,12 +4,12 @@ services:
     build: .
     environment:
       BOT_TOKEN: 5764808122:AAHEBx3fRN-ujCqoP8lpUwMPn4gFSXCTwVU
-      API_ID: 19562731
-      API_HASH: 1667473e722f17eaa8ccbb98dc5f727d
-      CHANNELS: -1001621272794 -1001607692169 -1001673187322
-      ADMINS: 5512382938 2071644540
-      LOG_CHANNEL: -1001787331054
-      DATABASE_NAME: malindu7
-      DATABASE_URI: mongodb+srv://film-detective:darkdevil777@malindu7.yt2n28n.mongodb.net/?retryWrites=true&w=majority
-      COLLECTION_NAME: Devil_Films
-      AUTH_CHANNEL: -1001616221826
+      API_ID: 21529864
+      API_HASH: 1a59a3c7c9012c7fc4da36de7f073cf7
+      CHANNELS: -1001654447674
+      ADMINS: 1111944484
+      LOG_CHANNEL: -1001894931063
+      DATABASE_NAME: malindu77
+      DATABASE_URI: mongodb+srv://infofrantzy:FN@cluster0.zi5w2re.mongodb.net/
+      COLLECTION_NAME: Devil_Filmsss
+      AUTH_CHANNEL: -1002095433187
