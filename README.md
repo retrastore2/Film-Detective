@@ -81,7 +81,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/DARK-DEVIL-BOTZ/Film-Detective">
+<a href="https://heroku.com/deploy?template=https://github.com/retrastore2/Film-Detective">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p></details>
