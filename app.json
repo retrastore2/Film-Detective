@@ -26,32 +26,32 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "19562731",
+            "value": "21529864",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "1667473e722f17eaa8ccbb98dc5f727d",
+            "value": "1a59a3c7c9012c7fc4da36de7f073cf7",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "5764808122:AAFHdDoLutqDbauOWihzvjI0NLPKWwYIWC4",
+            "value": "6701336428:AAHpUv5lN_B7HagVcktOwA_HkdnnnOphGrY",
             "required": true
         },    
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": "-1001621272794 -1001607692169 -1001673187322",
+            "value": "-1001654447674",
             "required": true
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "5512382938 2071644540",
+            "value": "1111944484",
             "required": true
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs, Give a channel id with -100xxxxxxx",
-            "value": "-1001787331054",
+            "value": "-1001894931063",
             "required": true
         },
         "CUSTOM_FILE_CAPTION": {
@@ -66,22 +66,22 @@
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "-1001616221826",
+            "value": "-1002095433187",
             "required": true
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video.",
-            "value": "mongodb+srv://film-detective:darkdevil777@malindu7.yt2n28n.mongodb.net/?retryWrites=true&w=majority",
+            "value": "mongodb+srv://infofrantzy:FN@cluster0.zi5w2re.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
-            "value": "malindu7",
+            "value": "malindu77",
             "required": true
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Devil_Films",
+            "value": "Devil_Filmsss",
             "required": true
         }
         
